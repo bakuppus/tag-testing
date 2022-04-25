@@ -10,7 +10,7 @@ on:
     #tags:
     #  - qa
   pull_request:
-    branches: [ development ]
+    #branches: [ development ]
     tags:
       - qa
 
